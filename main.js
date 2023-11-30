@@ -55,4 +55,12 @@
 /////////////////////////////////////////////////////////////
 
 
-  
+  //task5
+
+  // function get(a)
+// {
+//     return a.name + " has a population of " + a.population + " and is situated in " + a.continent;
+// }
+// console.log(
+//   get({ name: "Paris", population: "2,140,526", continent: "Europe" })
+// );
